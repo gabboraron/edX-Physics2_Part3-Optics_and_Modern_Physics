@@ -3,7 +3,7 @@
 source: https://openstax.org/books/college-physics/pages/1-introduction-to-science-and-the-realm-of-physics-physical-quantities-and-units
 
 ## Optics 
-waves: https://openstax.org/books/college-physics/pages/16-9-waves?query=waves&target=%7B%22index%22%3A0%2C%22type%22%3A%22search%22%7D#import-auto-id1023357
+waves: *part 16.9* https://openstax.org/books/college-physics/pages/16-9-waves?query=waves&target=%7B%22index%22%3A0%2C%22type%22%3A%22search%22%7D#import-auto-id1023357
 
 ![ An idealized ocean wave passes under a sea gull that bobs up and down in simple harmonic motion. The wave has a wavelength λ, which is the distance between adjacent identical parts of the wave. The up and down disturbance of the surface propagates parallel to the surface at a speed vW](https://openstax.org/apps/archive/20221219.191545/resources/8cf22e054bb2d969c9479ed35f9d3699ef4ade12)
 
@@ -19,7 +19,9 @@ waves: https://openstax.org/books/college-physics/pages/16-9-waves?query=waves&t
 
 #### Transverse and Longitudinal Waves
 
-
+| ![transverse waves](https://openstax.org/apps/archive/20221219.191545/resources/0f82a5bc889347ad4c19fd2ce99be2c6bb2bf819) | ![longitudinal waves](https://openstax.org/apps/archive/20221219.191545/resources/9260cac98424c50e5680902083a56e62f507739c) |
+| ------- | ---- | 
+| In this example of a transverse wave, the wave propagates horizontally, and the disturbance in the cord is in the vertical direction. | In this example of a longitudinal wave, the wave propagates horizontally, and the disturbance in the cord is also in the horizontal direction. |
 
 ### Reflection
 ### Refraction
