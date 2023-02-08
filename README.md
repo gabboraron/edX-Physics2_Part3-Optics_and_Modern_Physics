@@ -18,10 +18,23 @@ waves: *part 16.9* https://openstax.org/books/college-physics/pages/16-9-waves?q
 > *Many people think that water waves push water from one direction to another. In fact, the particles of water tend to stay in one location, save for moving up and down due to the energy in the wave. The energy moves forward through the water, but the water stays in one place. If you feel yourself pushed in an ocean, what you feel is the energy of the wave, not a rush of water.*
 
 #### Transverse and Longitudinal Waves
+Waves may be transverse, longitudinal, or a combination of the two. *(Water waves are actually a combination of transverse and longitudinal.)*- 
+transverse:
+- The waves on the strings of musical instruments
+- electromagnetic waves
+longitudinal:
+- Sound waves in air
+- Sound waves in water
 
 | ![transverse waves](https://openstax.org/apps/archive/20221219.191545/resources/0f82a5bc889347ad4c19fd2ce99be2c6bb2bf819) | ![longitudinal waves](https://openstax.org/apps/archive/20221219.191545/resources/9260cac98424c50e5680902083a56e62f507739c) |
 | ------- | ---- | 
 | In this example of a transverse wave, the wave propagates horizontally, and the disturbance in the cord is in the vertical direction. | In this example of a longitudinal wave, the wave propagates horizontally, and the disturbance in the cord is also in the horizontal direction. |
+
+Most waves appear complex because they result from several simple waves adding together. 
+
+**superposition:** When two or more waves arrive at the same point, they superimpose themselves on one another. More specifically, the disturbances of waves are superimposed when they come together. Each disturbance corresponds to a force, and forces add. ***If the disturbances are along the same line, then the resulting wave is a simple addition of the disturbances of the individual waves—that is, their amplitudes add.*** 
+
+
 
 ### Reflection
 ### Refraction
